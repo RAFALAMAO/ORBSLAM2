@@ -66,7 +66,7 @@ Camera.k3: 1.163314
 #Camera.k3: -1.76531228
 
 # Camera frames per second 
-Camera.fps: 5 #25 en linea
+Camera.fps: 25 #25 en linea
 
 # Color order of the images (0: BGR, 1: RGB. It is ignored if images are grayscale)
 Camera.RGB: 1
@@ -76,7 +76,7 @@ Camera.RGB: 1
 #--------------------------------------------------------------------------------------------
 
 # ORB Extractor: Number of features per image
-ORBextractor.nFeatures: 1000
+ORBextractor.nFeatures: 1500
 
 # ORB Extractor: Scale factor between levels in the scale pyramid 	
 ORBextractor.scaleFactor: 1.2

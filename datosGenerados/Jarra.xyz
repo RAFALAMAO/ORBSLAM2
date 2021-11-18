@@ -1,3 +1,10 @@
+Ransac - Elimina puntos que no están dentro de
+Red wta - Para clasificación de puntos
+Pared sin sonbra girando el objeto
+bag - ROS
+
+https://blogs.gre.ac.uk/designsupport/3d-realisation/laser-scanning/meshlab-point-cloud-to-mesh/
+
 -0.231867 -0.241812 0.890992
 -0.203264 -0.138027 0.798408
 -0.044012 -0.081308 0.474857
